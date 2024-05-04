@@ -10,3 +10,6 @@ C:\Users\ParkerB\Desktop\Personal_Projects\AI-Language\Talk-To-Me\backend\FS.Tod
 C:\Users\ParkerB\Desktop\Personal_Projects\AI-Language\Talk-To-Me\backend\FS.Todo.Data\obj\Debug\net8.0\refint\FS.Todo.DAta.dll
 C:\Users\ParkerB\Desktop\Personal_Projects\AI-Language\Talk-To-Me\backend\FS.Todo.Data\obj\Debug\net8.0\FS.Todo.DAta.pdb
 C:\Users\ParkerB\Desktop\Personal_Projects\AI-Language\Talk-To-Me\backend\FS.Todo.Data\obj\Debug\net8.0\ref\FS.Todo.DAta.dll
+C:\Users\ParkerB\Desktop\Personal_Projects\AI-Language\Talk-To-Me\backend\FS.Todo.Data\obj\Debug\net8.0\FS.Todo.Data.csproj.AssemblyReference.cache
+C:\Users\ParkerB\Desktop\Personal_Projects\AI-Language\Talk-To-Me\backend\FS.Todo.Data\bin\Debug\net8.0\FS.Todo.Data.runtimeconfig.json
+C:\Users\ParkerB\Desktop\Personal_Projects\AI-Language\Talk-To-Me\backend\FS.Todo.Data\obj\Debug\net8.0\FS.Todo.Data.genruntimeconfig.cache

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FS.Todo.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dce7692411e479459f459aaad50eeddf72a85825")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70b1ce2512bab91b8ee343f3c9c2a281753d6b69")]
 [assembly: System.Reflection.AssemblyProductAttribute("FS.Todo.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FS.Todo.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BV/IOUDHUiHI5W70KLEH/6MNSCCbnRcbVBJobsg8hJw=",
+  "Source": "FS.Todo.Api",
+  "BasePath": "_content/FS.Todo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

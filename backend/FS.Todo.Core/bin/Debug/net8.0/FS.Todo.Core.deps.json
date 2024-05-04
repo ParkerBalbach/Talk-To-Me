@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FS.Todo.Core/1.0.0": {
+        "dependencies": {
+          "FS.Todo.Data": "1.0.0"
+        },
+        "runtime": {
+          "FS.Todo.Core.dll": {}
+        }
+      },
+      "FS.Todo.Data/1.0.0": {
+        "runtime": {
+          "FS.Todo.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FS.Todo.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FS.Todo.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

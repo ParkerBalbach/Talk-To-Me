@@ -10,6 +10,10 @@ namespace FS.Todo.Data.Repositories
 
         private readonly TodoContext _todoContext;
 
+        public TodoRepository(TodoContext todoContext) {
+            _todoContext = todoContext;
+        }
+
         public async Task<Entities.Todo> AddAsync(Entities.Todo todo) {
             todo.Id = todo.Id == Guid.Empty ? Guid.NewGuid() : todo.Id;
             _todoContext.Add(todo);

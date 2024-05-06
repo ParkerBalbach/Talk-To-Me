@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FS.Todo.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dce7692411e479459f459aaad50eeddf72a85825")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6fa34c1836f53e361d2f1f074512590c3f10580")]
 [assembly: System.Reflection.AssemblyProductAttribute("FS.Todo.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FS.Todo.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

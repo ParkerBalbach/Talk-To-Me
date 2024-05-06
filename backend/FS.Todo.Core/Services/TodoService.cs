@@ -14,8 +14,8 @@ namespace FS.Todo.Core.Services
 
         private readonly ITodoRepository _todoRepository;
 
-        public TodoService(ITodoRepository TodoRepository) {
-            _todoRepository = todoREpository;
+        public TodoService(ITodoRepository todoRepository) {
+            _todoRepository = todoRepository;
         }
 
         public async Task<TodoModel> CreateTodoAsync(TodoModel todoModel) {
@@ -47,7 +47,7 @@ namespace FS.Todo.Core.Services
                 IsCompleted = todoModel.IsCompleted,
             };
 
-            todoEntity = away _todoRepository.UpdateAsync(todoEntity);
+            todoEntity = await _todoRepository.UpdateAsync(todoEntity);
 
             return new TodoModel {
                 Id = todoEntity.Id,
@@ -69,7 +69,7 @@ namespace FS.Todo.Core.Services
                 Id = todoEntity.Id,
                 Description = todoEntity.Description,
                 IsCompleted = todoEntity.IsCompleted,
-            }
+            };
 
         }
 

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj": {}
+    "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj": {
+    "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj",
-        "projectName": "FS.Todo.DAta",
-        "projectPath": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj",
+        "projectUniqueName": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.Data.csproj",
+        "projectName": "FS.Todo.Data",
+        "projectPath": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.Data.csproj",
         "packagesPath": "C:\\Users\\ParkerB\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\obj\\",
         "projectStyle": "PackageReference",

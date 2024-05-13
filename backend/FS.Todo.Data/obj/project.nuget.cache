@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bQ0e3ZCQ8NB4eDu4oaygSKiqCQVW3z2aTIkm1dKaMufOoGR1A6xINVoOpoOnSfaSdDKdMv5zTsKvT/N4htC00Q==",
+  "dgSpecHash": "NVQqd8ZrBoUPLICmd/WHqBO7PRjgB+aPFa8g8sU90pkcrME10MJvZzGxryuPnS/tbaIPP0z/v2eaXM64AuvO8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj",
+  "projectFilePath": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ParkerB\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ParkerB\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

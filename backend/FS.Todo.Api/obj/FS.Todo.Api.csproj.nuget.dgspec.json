@@ -29,8 +29,8 @@
               "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Core\\FS.Todo.Core.csproj": {
                 "projectPath": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Core\\FS.Todo.Core.csproj"
               },
-              "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj": {
-                "projectPath": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj"
+              "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.Data.csproj": {
+                "projectPath": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.Data.csproj"
               }
             }
           }
@@ -51,6 +51,10 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[8.0.4, )"
             },
@@ -104,8 +108,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj": {
-                "projectPath": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj"
+              "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.Data.csproj": {
+                "projectPath": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.Data.csproj"
               }
             }
           }
@@ -150,12 +154,12 @@
         }
       }
     },
-    "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj": {
+    "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj",
-        "projectName": "FS.Todo.DAta",
-        "projectPath": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj",
+        "projectUniqueName": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.Data.csproj",
+        "projectName": "FS.Todo.Data",
+        "projectPath": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\FS.Todo.Data.csproj",
         "packagesPath": "C:\\Users\\ParkerB\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ParkerB\\Desktop\\Personal_Projects\\AI-Language\\Talk-To-Me\\backend\\FS.Todo.Data\\obj\\",
         "projectStyle": "PackageReference",
